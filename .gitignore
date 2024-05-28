@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+*.csv
+*.conf.ts
+*.d.ts
+.env
+
+package.json
+tsconfig.json
